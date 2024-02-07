@@ -1,0 +1,14 @@
+a{
+    font-style: none;
+    margin-left: 10px;
+}
+
+#navbar{
+    float: right;
+    background-color: black;
+    text-align: right;
+}
+
+.logo{
+    float: left;
+}

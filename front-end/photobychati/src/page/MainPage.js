@@ -2,7 +2,9 @@ import React from 'react'
 
 function MainPage() {
   return (
-    <div>MainPage</div>
+    <div
+      style={{backgroundColor: 'gray', height: '100vh'}}
+    >MainPage</div>
   )
 }
 
