@@ -2,7 +2,7 @@ import React from 'react'
 
 function InfoPage() {
   return (
-    <div>InfoPage</div>
+    <div className="page">InfoPage</div>
   )
 }
 
